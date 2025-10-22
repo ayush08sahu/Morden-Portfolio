@@ -203,44 +203,42 @@ export const myProjects = [
 export const mySocials = [
   {
     name: "WhatsApp",
-    href: "",
+    href: "https://wa.me/+916370645664",
     icon: "/assets/socials/whatsApp.svg",
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/ayush-kumar-sahu-3123602b5/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/ig.ayush_xd/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Intern - seeree services private limited",
+    job: "Full-Stack Developer",
+    date: "Jun 2024 – July 2024",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Developed and deployed an Education Management System using Python and Django.",
+      "Worked on backend development, MVC architecture, and web application deployment.",
+      "Improved project logic, code efficiency, and workflow through practical implementation.",
+      "Collaborated with a development team, delivering a functional and scalable solution.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Intern - qlith innovation",
+    job: "Full-Stack Developer",
+    date: "Jun 2025 – July 2025",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Built a responsive e-commerce website replicating Apple India’s design and layout.",
+      "Developed a dynamic portfolio website to showcase projects and technical skills.",
+      "Developed a full-stack web app with authentication, booking, and admin control features.",
+      "Gained practical experience in REST API integration and responsive UI development.",
     ],
   },
   {
